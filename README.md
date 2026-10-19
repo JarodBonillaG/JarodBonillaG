@@ -1,6 +1,6 @@
 # Hi, I'm Jarod Bonilla
 
-Systems Engineering student at Universidad Nacional of Costa Rica, graduating on November 11, 2026.
+Information Systems Engineering student at Universidad Nacional of Costa Rica. I completed the Diplomado en Programación de Aplicaciones Informáticas in 2026 and am continuing toward the bachelor's degree.
 
 I build web applications with Java, Spring Boot, React, and relational databases. I have also worked with Azure infrastructure, Active Directory, LDAP, Kubernetes, Docker containers, CI/CD, and software testing. I'm currently learning Cloudflare.
 

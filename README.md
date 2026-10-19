@@ -21,6 +21,9 @@ A web and Android meal diary for logging meals, tracking estimated calorie intak
 - Vercel deployment and Capacitor Android build
 - Source repository is private; the demo may require an approved account.
 
+### V University Congress at Universidad Nacional — Presentation Management Platform (2026)
+Working as a student assistant during the 2026 academic semester, I developed a web platform for the V University Congress at Universidad Nacional. It enables the congress team to consult presentations and manage their statuses. The platform is currently in use by the congress team. Source code and internal details are private.
+
 ### Software Engineering Capstone for Coopebrisas (2026–2027, in progress)
 Three-semester academic project for Coopebrisas, developed by a six-person team. It started in the first semester of 2026 and is expected to finish in the first semester of 2027. My contribution focuses on deployment and integration: creating Docker images for the database and backend, deploying the frontend to Vercel, and connecting the services with Docker Compose and Cloudflare to provide an access URL for usability testing. The source code is private while development continues.
 

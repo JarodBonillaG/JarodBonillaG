@@ -21,8 +21,8 @@ A web and Android meal diary for logging meals, tracking estimated calorie intak
 - Vercel deployment and Capacitor Android build
 - Source repository is private; the demo may require an approved account.
 
-### Three-semester Software Engineering project (2026–2027, in progress)
-Part of a six-developer academic team building a quality and returns management system for a cooperative. My contribution focuses on deployment and integration: containerizing the database and backend, deploying the frontend to Vercel, and using Docker Compose and Cloudflare to connect the services and provide a URL for usability testing. The code is private while development continues.
+### Software Engineering Capstone for Coopebrisas (2026–2027, in progress)
+Three-semester academic project for Coopebrisas, developed by a six-person team. It started in the first semester of 2026 and is expected to finish in the first semester of 2027. My contribution focuses on deployment and integration: creating Docker images for the database and backend, deploying the frontend to Vercel, and connecting the services with Docker Compose and Cloudflare to provide an access URL for usability testing. The source code is private while development continues.
 
 ### Other university project
 Full-stack job board developed as a university team project: [Proyecto2-Progra4](https://github.com/JarodBonillaG/Proyecto2-Progra4).

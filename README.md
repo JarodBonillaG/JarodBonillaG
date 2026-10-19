@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Jarod Bonilla
 
-<!--
-**JarodBonillaG/JarodBonillaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering student at Universidad Nacional of Costa Rica, graduating on November 11, 2026. I'm seeking an internship in backend development or cloud engineering.
 
-Here are some ideas to get you started:
+I build web applications with Java, Spring Boot, React, and relational databases. I have also worked with Azure infrastructure, Active Directory, LDAP, Kubernetes, Docker containers, CI/CD, and I'm learning Cloudflare.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+### [FinTrack v2](https://github.com/JarodBonillaG/fintrack-v2)
+A personal finance web and Android app that I built independently, using AI tools as development support.
+
+- Backend: Java, Spring Boot, Spring Security, JWT, PostgreSQL
+- Frontend: React, Vite, Tailwind CSS
+- Delivery: Docker, GitHub Actions, Render, Vercel, Capacitor
+- [Live demo](https://fintrack-v2-lake.vercel.app)
+
+### [Mi Puntal](https://mi-puntal.vercel.app)
+A web and Android meal diary for logging meals, tracking estimated calorie intake, and viewing weekly and monthly charts. Built independently with AI tools as development support.
+
+- Firebase authentication and synchronization
+- Vercel deployment and Capacitor Android build
+- Source repository is private; the demo may require an approved account.
+
+### University projects
+- Cloud infrastructure project using Azure Active Directory, LDAP, GitHub Actions, Azure Container Registry, and AKS.
+- Full-stack job board project completed as part of a university team: [Proyecto2-Progra4](https://github.com/JarodBonillaG/Proyecto2-Progra4).
+
+## Technologies
+Java · Spring Boot · React · PostgreSQL · MySQL · Azure · Docker · Kubernetes · GitHub Actions · Cloudflare (learning)
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/jarod-bonilla-granados/) · [GitHub](https://github.com/JarodBonillaG)

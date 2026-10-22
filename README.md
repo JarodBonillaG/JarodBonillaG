@@ -30,7 +30,8 @@ Working as a student assistant during the 2026 academic semester, I developed a 
 Three-semester academic project for Coopebrisas, developed by a six-person team. It started in the first semester of 2026 and is expected to finish in the first semester of 2027. My contribution focuses on deployment, integration, and frontend testing: creating Docker images for the database and backend, deploying the frontend to Vercel, connecting services with Docker Compose, and using Cloudflare to provide an access URL for usability testing. I also wrote frontend tests with Vitest and end-to-end tests with Cypress. I studied JUnit and understand its role in unit testing, but have not implemented tests with it. The source code is private while development continues.
 
 ### Other university project
-Full-stack job board developed as a university team project: [Proyecto2-Progra4](https://github.com/JarodBonillaG/Proyecto2-Progra4).
+
+University job board for publishing vacancies and managing applications. I contributed React frontend features for job search and reporting: [Proyecto2-Progra4](https://github.com/JarodBonillaG/Proyecto2-Progra4).
 
 ## Technologies
 Java · Spring Boot · React · Vitest · Cypress · PostgreSQL · MySQL · Azure · Docker · Kubernetes · GitHub Actions · Cloudflare (used for project access and usability testing)

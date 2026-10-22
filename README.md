@@ -1,5 +1,7 @@
 # Hi, I'm Jarod Bonilla
 
+Portfolio: [jarod-bonilla-portfolio.vercel.app](https://jarod-bonilla-portfolio.vercel.app)
+
 Information Systems Engineering student at Universidad Nacional of Costa Rica. I completed the Diplomado en Programación de Aplicaciones Informáticas in 2026 and am continuing toward the bachelor's degree.
 
 I build web applications with Java, Spring Boot, React, and relational databases. I have also worked with Azure infrastructure, Active Directory, LDAP, Kubernetes, Docker containers, CI/CD, and software testing. I have used Cloudflare to provide access to a project environment for usability testing and am continuing to build on that experience.
